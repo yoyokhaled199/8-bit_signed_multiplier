@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Sat May 27 08:45:50 2023
+# Process ID: 13224
+# Current directory: C:/Users/ziyadamin/Desktop/finalproject_2/finalproject_2.runs/impl_1
+# Command line: vivado.exe -log center.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source center.tcl -notrace
+# Log file: C:/Users/ziyadamin/Desktop/finalproject_2/finalproject_2.runs/impl_1/center.vdi
+# Journal file: C:/Users/ziyadamin/Desktop/finalproject_2/finalproject_2.runs/impl_1\vivado.jou
+# Running On: CSE-P07-2165-09, OS: Windows, CPU Frequency: 3696 MHz, CPU Physical cores: 8, Host memory: 34020 MB
+#-----------------------------------------------------------
+source center.tcl -notrace
